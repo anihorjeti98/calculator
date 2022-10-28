@@ -1,0 +1,2 @@
+# calculator
+Web based basic calculator application with the ability to perform operations and continue operations on the found value. Calculator includes a clear button that resets the calculator to zero and a scrollbar that can show us all the figures entered. It’s important to be careful with the logic so that the user is not allowed to enter multiple decimal points or enter a decimal to an operator.
